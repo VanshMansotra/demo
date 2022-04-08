@@ -6,6 +6,7 @@ int main(){
 
        /*  Read input as specified in the question.
 	* Print output as specified in the question.
+	2nd commit yo
 	*/
   int n;
     cin>>n;
